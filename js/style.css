@@ -1,0 +1,33 @@
+  /**{ border: 1px solid red}  */
+  div[data-role="page"]    {}
+  ul {list-style: none; padding: 0 2em ;}
+ .ui-content { padding: 50px 0}
+ .ui-page .ui-header   { bacrrrrkground: #ccc; position: fixed;z-index: 999;  top: 0}
+ .ui-page .ui-footer    {  position: fixed;  bottom: 0;z-index: 999;  }
+ .ui-page .ui-footer  .ui-block-c { text-align: right;}
+ .ui-page .ui-footer  a  { margin: .1cm }
+
+ .ui-page  article { padding: 2em}
+
+
+  pre {
+	padding: 8px 0 12px 20px;
+	border-left: 4px solid #566D82;
+	margin-bottom: 1.25em;
+	background: #0F192A;
+    color: #fff;
+    text-shadow: none;
+}
+
+code {
+	font-size: 0.875em;
+}
+
+  section pre code {
+	font-size: 0.8125em;
+	line-height: 1.4em;
+    padding: 0px;
+    margin-top: 3px;
+    margin-bottom: 1px;
+	background: #0F192A;
+}
