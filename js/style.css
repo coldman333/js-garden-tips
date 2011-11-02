@@ -2,8 +2,8 @@
   div[data-role="page"]    {}
   ul {list-style: none; padding: 0 2em ;}
  .ui-content { padding: 50px 0}
- .ui-page .ui-header   { bacrrrrkground: #ccc; position: fixed;z-index: 999;  top: 0}
- .ui-page .ui-footer    {  position: fixed;  bottom: 0;z-index: 999;  }
+ /*.ui-page .ui-header   { bacrrrrkground: #ccc; position: fixed;z-index: 999;  top: 0}
+ .ui-page .ui-footer    {  position: fixed;  bottom: 0;z-index: 999;  }   */
  .ui-page .ui-footer  .ui-block-c { text-align: right;}
  .ui-page .ui-footer  a  { margin: .1cm }
 
